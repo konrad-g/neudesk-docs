@@ -17,5 +17,5 @@ After delivery, the buyer can leave a verified review using our [review system](
 
 ## 📘 Still stuck?
 
-Check the [Getting Started](getting-started.md) guide!
+Check the [Getting Started as a Seller](getting-started-seller.md) or [Getting Started as a Buyer](getting-started-buyer.md) guide!
   

@@ -8,7 +8,8 @@ Documentation, and resources for the Neudesk platform, a place for selling and d
 
 ## 📂 Contents
 
-- [Getting Started](getting-started.md): Quick launch guide  
+- [Getting Started as a Seller](getting-started-seller.md): Quick launch guide for service providers
+- [Getting Started as a Buyer](getting-started-buyer.md): Quick launch guide for clients
 - [FAQ](faq.md): Answers to common questions
 
 ---
