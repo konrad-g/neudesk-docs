@@ -34,6 +34,6 @@ You will pay greatly reduced commission fees for sales generated from your own l
 ## 7. Next Steps
 
 - Get familiar with our [FAQ](faq.md)  
-- Check your dashboard for sales, reviews, and analytics
+- Check your dashboard for sales and reviews
 
 Good luck! If you have any questions, feel free to reach out to our support team at hey@neudesk.com or through the [contact form](https://neudesk.com/contact).
