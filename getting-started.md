@@ -1,4 +1,5 @@
-# Getting Started with Neudesk
+# Getting Started with Neudesk as a Seller
+# ========================================
 
 Welcome to Neudesk! This guide will help you set up your first productized service and get your first sale.
 
@@ -18,15 +19,16 @@ Now add your company profile. Include a clear description, logo, and contact inf
 
 ## 4. List Your First Service
 
-Choose your category and craft a clear title. Set your price and timeframe. Highlight what's included–for example, "WordPress site setup + 1 revision."
+Choose your category and craft a clear title. Set your price and timeframe. Highlight what's included. For example, "WordPress site setup + 1 revision."
 
 ## 5. Go Live
 
-Publish your service. It appears in marketplace listings, and buyers can find you by category or search.
+Publish your page. Your services appear in marketplace listings, and buyers can find you by category or search.
 
 ## 6. Promote Your Profile
 
 Share your profile link on social media, forums, and with your network. The more visibility, the better!
+  
 You will pay greatly reduced commission fees for sales generated from your own links. For details, check our [pricing page](https://neudesk.com/pricing).
 
 ## 7. Next Steps
@@ -35,3 +37,26 @@ You will pay greatly reduced commission fees for sales generated from your own l
 - Check your dashboard for sales, reviews, and analytics
 
 Good luck! If you have any questions, feel free to reach out to our support team at hey@neudesk.com or through the [contact form](https://neudesk.com/contact).
+
+
+# Getting Started with Neudesk as a Buyer
+# ========================================
+
+## 1. Sign Up & Create a Profile
+
+Head to the [login page](https://neudesk.com/log-in) and create your account. Then fill out your company information.
+
+## 2. Provide Invoice Details
+Fill out the invoice details form. This will ensure you receive a proper invoice for your records.
+
+## 3. Browse Services
+Use the search page to find services you need. You can also browse by category.
+
+## 4. Read Reviews
+Check verified reviews from other buyers to ensure quality. Look for services with high ratings and positive feedback.
+
+## 5. Hire a Service Provider
+Once you find a service you like, click "Order". You will be redirected to Stripe to make the payment.
+
+## 6. Enjoy Your Service
+After payment, the service provider will start working on your order.

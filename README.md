@@ -35,6 +35,9 @@ Once you've found the right company, you can hire them directly through our plat
 #### Proof of quality
 Check any business work samples and client reviews.
 
+#### No fixed fees
+No fixed fees for buyers or sellers. It's completely free to browse our database. Sellers only pay a small commission on each sale.  
+
 ####  Safe, easy purchases
 We provide a built-in payment system that let's you order services for your business with just a few clicks.
 
