@@ -1,7 +1,7 @@
 
 # Getting Started with Neudesk as a Seller
 
-Welcome to Neudesk! This guide will help you set up your first productized service and get your first sale.
+Welcome to Neudesk! This guide will help you set up your first marketing service and get your first sale.
 
 ---
 
@@ -19,11 +19,11 @@ Now add your company profile. Include a clear description, logo, and contact inf
 
 ## 4. List Your First Service
 
-Choose your category and craft a clear title. Set your price and timeframe. Highlight what's included. For example, "WordPress site setup + 1 revision."
+Choose your category and craft a clear title. Set your price and timeframe. Highlight what's included. For example, "Technical SEO Audit"
 
 ## 5. Go Live
 
-Publish your page. Your services appear in marketplace listings, and buyers can find you by category or search.
+Publish your page. Your services will appear in marketplace listings, and buyers can find you by category or search.
 
 ## 6. Promote Your Profile
 

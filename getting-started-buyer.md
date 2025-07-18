@@ -1,6 +1,6 @@
 # Getting Started with Neudesk as a Buyer
 
-Welcome to Neudesk! This guide will help you purchase your first productized service and get the most out of our platform.
+Welcome to Neudesk! This guide will help you purchase your first marketing service and get the most out of our platform.
 
 ---
 

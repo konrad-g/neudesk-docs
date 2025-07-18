@@ -1,7 +1,7 @@
 # Neudesk FAQ
 
 ### Q: What is Neudesk?
-Neudesk is a marketplace to sell productized B2B services. Web development, design, marketing, support, and more. Verified reviews help businesses hire confidently.
+Neudesk is a marketplace to sell all types of marketing B2B services. Sales, advertising, design, video production, copywriting, and more. Verified reviews help businesses hire confidently.
 
 ### Q: How much does it cost?
 Neudesk is fully free for buyers.  
